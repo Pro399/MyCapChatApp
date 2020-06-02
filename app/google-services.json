@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "890367749167",
+    "firebase_url": "https://chatapp-d7e61.firebaseio.com",
+    "project_id": "chatapp-d7e61",
+    "storage_bucket": "chatapp-d7e61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890367749167:android:abe97c4697593a554b2ada",
+        "android_client_info": {
+          "package_name": "com.pratyay.mycapchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890367749167-p4jmqs724qb081cid543clm3o6v4bra5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdvaoK0PmPLKL7yTcq7Aa99BzZdL4HR3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890367749167-p4jmqs724qb081cid543clm3o6v4bra5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
